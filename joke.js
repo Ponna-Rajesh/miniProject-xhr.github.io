@@ -18,4 +18,4 @@ const generateJoke = () => {
     xhr.send()
 }
 btn.addEventListener('click',generateJoke)
-document.addEventListener('DOMContentLoaded',generateJoke)  
+// document.addEventListener('DOMContentLoaded',generateJoke)  
